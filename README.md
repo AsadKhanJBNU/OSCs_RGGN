@@ -4,3 +4,11 @@ The adaptability of organic molecules offers an expansive design landscape for o
 ## Dataset
 ![image](https://github.com/user-attachments/assets/7601d5a5-0113-4c54-81c8-9b1b1892dc8f)
 Illustration of the distribution of key quantum-properties, including orbital energies and transition state parameters, across dataset
+
+## Flow diagram 
+![image](https://github.com/user-attachments/assets/199188d7-2403-49f9-b0a1-ccff6cc60cf8)
+
+## Developer Contact
+Asad Khan (Contact asadkhan@jbnu.ac.kr)
+Basir Akbar (Contact basirakbar98@gmail.com)
+
